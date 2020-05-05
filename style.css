@@ -1,5 +1,5 @@
 body{margin: 15px 150px 20px 150px;}
-p{ background:pink; padding:20px 100px 20px 100px; align:center;}
+p{ border-radius:30px;background:pink; padding:20px 100px 20px 100px; align:center;}
 
 button{background-color: black;
 color:white;
