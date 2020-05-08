@@ -1,0 +1,93 @@
+body{margin: 15px 150px 20px 150px;}
+p{ border-width:thick; border-radius:30px;background:silver; padding:30px 70px 30px 100px; align:center;}
+
+button{background-color: black;
+color:white;
+border-radius:10px;
+border-width:no;
+padding:15px 25px;
+cursor:pointer;
+font-size: 15px;}
+button:hover{background-color:red;
+}
+button.y{background-color: black;
+color:black;
+
+padding:15px 110px;
+font-size: 15px;}
+button.y:hover{background-color:blue;
+}
+button.u{background-color: black;
+color:white;
+
+padding:15px 69.5px;
+font-size: 15px;}
+button.u:hover{background-color:blue;
+}
+button.t{background-color: black;
+color:white;
+
+padding:15px 25px;
+font-size: 10px;}
+button.t:hover{background-color:blue;
+}
+button.b{background-color: silver;
+color:pink;
+
+margin:auto;
+display:block;
+padding:90px 200px;
+font-size: 1px;}
+
+button.n{background-color: black;
+color:white;
+
+padding:13px 34px;
+font-size: 10px;}
+button.n:hover{background-color:blue;
+}
+button.f{background-color: black;
+color:white;
+
+padding:18px 42px;
+font-size: 13px;}
+button.f:hover{background-color:blue;
+}
+button.v{background-color: black;
+color:white;
+
+padding:13px 22px;
+font-size: 10px;}
+button.v:hover{background-color:blue;
+}
+button.g{background-color: black;
+color:white;
+
+padding:13px 22px;
+font-size: 10px;}
+button.g:hover{background-color:blue;
+}
+button.w{background-color: black;
+color:white;
+border-radius:10px;
+padding:10px 27px;
+font-size: 10px;}
+button.w:hover{background-color:green;
+}
+button.w{background-color: black;
+color:white;
+border-radius:10px;
+padding:10px 28px;
+font-size: 10px;}
+button.d{background-color: black;
+color:black;
+padding:10px 10px;
+font-size: 10px;}
+button.d:hover{background-color:green;
+}
+button.q{background-color: black;
+color:white;
+padding:13px 29px;
+font-size: 10px;}
+button.q:hover{background-color:green;
+}
