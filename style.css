@@ -27,7 +27,7 @@ button.u:hover{background-color:blue;
 button.t{background-color: black;
 color:white;
 
-padding:15px 25px;
+padding:13px 25px;
 font-size: 10px;}
 button.t:hover{background-color:blue;
 }
@@ -63,7 +63,7 @@ button.v:hover{background-color:blue;
 button.g{background-color: black;
 color:white;
 
-padding:13px 22px;
+padding:10px 22px;
 font-size: 10px;}
 button.g:hover{background-color:blue;
 }
